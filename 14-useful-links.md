@@ -107,7 +107,7 @@
 | Ресурс | Ссылка | Описание |
 |--------|--------|----------|
 | Digital nomad Italy | [t.me/nomadvisaitaly](https://t.me/nomadvisaitaly) | Основной чат по DN визе в Италию |
-| @ne_putai | [t.me/ne_putai](https://t.me/ne_putai) | Личный опыт получения DN визы (Москва, 2025–2026) |
+| @ne_putai | [t.me/ne_putai](https://t.me/ne_putai/3563) | Личный опыт получения DN визы (Москва, 2025–2026) |
 
 ## Консультанты и помогаторы
 
