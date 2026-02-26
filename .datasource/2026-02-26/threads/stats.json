@@ -1,0 +1,17 @@
+{
+  "total_threads": 1753,
+  "total_messages": 9062,
+  "single_message_threads": 247,
+  "threads_2_5": 996,
+  "threads_6_20": 459,
+  "threads_20plus": 51,
+  "largest_thread": 49,
+  "avg_thread_size": 5.2,
+  "filter_stats": {
+    "total": 9089,
+    "service": 6,
+    "spam": 7,
+    "sticker_only": 14,
+    "kept": 9062
+  }
+}
