@@ -16,16 +16,17 @@
 
 ### Консульства и посольства
 
-| Страна | Ссылка | Контакты |
-|--------|--------|----------|
-| **Москва** | [consmosca.esteri.it](https://consmosca.esteri.it/ru/) | sociale.mosca@esteri.it |
-| **Санкт-Петербург** | [conspietroburgo.esteri.it](https://conspietroburgo.esteri.it/) | *(не принимает DN)* |
-| **Ереван** | [ambjerevan.esteri.it](https://ambjerevan.esteri.it/) | visti.jerevan@esteri.it, тел. 012542335/36 доб. 109 |
-| **Тбилиси** | [ambtiblisi.esteri.it](https://ambtiblisi.esteri.it/) | — |
-| **Белград** | [ambbelgrado.esteri.it](https://ambbelgrado.esteri.it/) | visti.belgrado@esteri.it |
-| **Стамбул** | [consistanbul.esteri.it](https://consistanbul.esteri.it/) | — |
-| **Тель-Авив** | [ambtelaviv.esteri.it](https://ambtelaviv.esteri.it/) | visti.telaviv@esteri.it, тел. +972-3-5301901 |
-| **Пристина** | [ambpristina.esteri.it](https://ambpristina.esteri.it/) | *(самое подробное описание DN на англ.)* |
+| Страна | Ссылка | Контакты | Примечания |
+|--------|--------|----------|----------|
+| **Москва** | [consmosca.esteri.it](https://consmosca.esteri.it/ru/) | sociale.mosca@esteri.it | 🟢 Дружелюбное отношение, быстрые сроки (2-8 недель) |
+| **Санкт-Петербург** | [conspietroburgo.esteri.it](https://conspietroburgo.esteri.it/) | *(не принимает DN)* | Только 1 региональное консульство |
+| **Ереван** | [ambjerevan.esteri.it](https://ambjerevan.esteri.it/) | visti.jerevan@esteri.it, тел. 012542335/36 доб. 109 | 🟡 Принимает документы по Nulla Osta, быстрые сроки на визу al seguito |
+| **Тбилиси** | [ambtiblisi.esteri.it](https://ambtiblisi.esteri.it/) | — | 🟡 Консульство по-англ., может отказать в рассмотрении второй компании-работодателя |
+| **Белград** | [ambbelgrado.esteri.it](https://ambbelgrado.esteri.it/) | visti.belgrado@esteri.it | 🟢 Исключительно дружелюбное отношение, личные встречи без записи. 🔴 Требует зарегистрированный в налоговой контракт аренды минимум на год, ospitalita не принимается |
+| **Стамбул** | [consistanbul.esteri.it](https://consistanbul.esteri.it/) | — | 🟢 Приемлет документы на английском и турецком |
+| **Тель-Авив** | [ambtelaviv.esteri.it](https://ambtelaviv.esteri.it/) | visti.telaviv@esteri.it, тел. +972-3-5301901 | 🟡 Требует билеты при подаче |
+| **Пристина** | [ambpristina.esteri.it](https://ambpristina.esteri.it/) | — | 🟢 Самое подробное описание DN на англ. |
+| **Генуя (Квестура)** | — | — | 🔴 Проблемы: случаи, когда сроки на отпечатки занимают до года, документы могут быть потеряны |
 
 ### Визовые центры
 
@@ -46,15 +47,18 @@
 
 ### Услуги консульства в Москве
 
-| Услуга | Ссылка |
-|--------|--------|
-| Запись на DDV и заверения | [prenotami.esteri.it](https://prenotami.esteri.it/) |
-| DDV — информация | [consmosca.esteri.it — DDV](https://consmosca.esteri.it/ru/servizi-consolari-e-visti/servizi-per-il-cittadino-italiano/altri-servizi/dichiarazioni-di-valore/) |
-| Перевод и легализация | [consmosca.esteri.it — переводы](https://consmosca.esteri.it/ru/servizi-consolari-e-visti/servizi-per-il-cittadino-straniero/traduzione-e-legalizzazione-dei-documenti/) |
-| Аккредитованные переводчики | [consmosca.esteri.it — список](https://consmosca.esteri.it/ru/servizi-consolari-e-visti/servizi-per-il-cittadino-italiano/traduzione-e-legalizzazione-dei-documenti/elenco-dei-traduttori-accreditati/) |
-| Формуляры (анкеты) | [italy-vms.ru/formulyary](https://italy-vms.ru/formulyary/) |
-| Приглашение / бронь | [italy-vms.ru — жильё](https://italy-vms.ru/priglashenie-ili-bron-otelya/) |
-| Запись в VMS | [italy-vms.ru/zapis](https://italy-vms.ru/zapis-na-podachu-dokumentov/) |
+| Услуга | Ссылка | Примечания |
+|--------|--------|----------|
+| Запись на DDV и заверения | [prenotami.esteri.it](https://prenotami.esteri.it/) | 🟡 Запись может быть перенесена по письму в консульство — доставить новые билеты если сроки выдачи визы изменились |
+| DDV — информация | [consmosca.esteri.it — DDV](https://consmosca.esteri.it/ru/servizi-consolari-e-visti/servizi-per-il-cittadino-italiano/altri-servizi/dichiarazioni-di-valore/) | 🟢 Стоимость ~258 EUR за 2 диплома, сроки 5 рабочих дней |
+| Перевод и легализация | [consmosca.esteri.it — переводы](https://consmosca.esteri.it/ru/servizi-consolari-e-visti/servizi-per-il-cittadino-straniero/traduzione-e-legalizzazione-dei-documenti/) | 🟡 Требуются консульские переводы, стоимость ~56.5k руб. + заверение ~300 EUR |
+| Аккредитованные переводчики | [consmosca.esteri.it — список](https://consmosca.esteri.it/ru/servizi-consolari-e-visti/servizi-per-il-cittadino-italiano/traduzione-e-legalizzazione-dei-documenti/elenco-dei-traduttori-accreditati/) | 🟡 Рекомендуется написать всем в WhatsApp, цены различаются в 10 раз |
+| Контакт на отмену записи на DDV | sociale.mosca@esteri.it | 🟢 Используется для отмены записи на легализацию диплома |
+| Формуляры (анкеты) | [italy-vms.ru/formulyary](https://italy-vms.ru/formulyary/) | — |
+| Приглашение / бронь | [italy-vms.ru — жильё](https://italy-vms.ru/priglashenie-ili-bron-otelya/) | — |
+| Запись в VMS | [italy-vms.ru/zapis](https://italy-vms.ru/zapis-na-podachu-dokumentov/) | — |
+| Контакт консульства общий | consitaly.mosca@esteri.it | 🟡 Для общих вопросов |
+| Контакт на визы | visti.conmosca@esteri.it | 🟡 Для вопросов по визам |
 
 ### В Италии
 
@@ -108,6 +112,8 @@
 |--------|--------|----------|
 | Digital nomad Italy | [t.me/nomadvisaitaly](https://t.me/nomadvisaitaly) | Основной чат по DN визе в Италию |
 | @ne_putai | [t.me/ne_putai](https://t.me/ne_putai/3563) | Личный опыт получения DN визы (Москва, 2025–2026) |
+| Венгрия — Digital Nomad Hungary | — | Активное сообщество с качественной модерацией | 🟡 [Чат #4047](https://t.me/nomadvisaitaly/4047) | 2024 |
+| Греция — Work from Greece | [https://workfromgreece.gr](https://workfromgreece.gr) | Официальный сайт греческого консульства | 🟡 [Чат #854](https://t.me/nomadvisaitaly/854) | 2025 |
 
 ## Консультанты и помогаторы
 
@@ -118,6 +124,11 @@
 | Имя | Контакт | Специализация | Источник |
 |-----|---------|---------------|----------|
 | Юлия (Emigrantista) | [@emigrantista_answers](https://t.me/emigrantista_answers) | Консультации по DN визе, помощь с документами | [@ne_putai/3526](https://t.me/ne_putai/3526), [Чат #4110](https://t.me/nomadvisaitaly/4110), октябрь 2025 |
+| Наталья Сохарева | — | Разработка сайтов, опыт в DN процессе (на ВНЖ Италии) | [Чат #9709](https://t.me/nomadvisaitaly/9709), февраль 2026 |
+
+🟡 При выборе аккредитованного переводчика в Москве рекомендуется написать всем из списка консульства в WhatsApp. Условия обычно примерно одинаковые. Переводчики с активным сайтом часто имеют больше заказов, поэтому сроки могут быть дольше. | [Чат #8406](https://t.me/nomadvisaitaly/8406) | Декабрь 2025
+
+🟡 Некоторые переводчики имеют свои связи в консульстве и могут ускорить процесс легализации документов. | [Чат #9278-9291](https://t.me/nomadvisaitaly/9278) | Февраль 2026
 
 ### С осторожностью
 
