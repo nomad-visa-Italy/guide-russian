@@ -23,7 +23,7 @@
 | [sravni.ru](http://sravni.ru) | Сравнение российских страховок | [@ne_putai/3563](https://t.me/ne_putai/3563), сентябрь 2025 |
 | **Allianz** | Рекомендуется консульствами | [Чат #9246](https://t.me/nomadvisaitaly/9246), [Чат #9278](https://t.me/nomadvisaitaly/9278) | Февраль 2026 |
 | **AXA Schengen** | Рекомендуется консульствами | [Чат #9246](https://t.me/nomadvisaitaly/9246) | Февраль 2026 |
-| **genki.world** | Помесячное страхование, но отмена раньше года невозможна на тарифе World Resident (на Explorer другие условия) | [Чат #869](https://t.me/nomadvisaitaly/869), [Чат #869](https://t.me/nomadvisaitaly/869) | Февраль–март 2025 |
+| **genki.world** | Помесячное страхование, но отмена раньше года невозможна на тарифе World Resident (на Explorer другие условия). 🟡 Успешно принята VMS Москва (март 2026): оплатили самую базовую на 1 месяц и отменили продление | [Чат #869](https://t.me/nomadvisaitaly/869), [Чат #10340](https://t.me/nomadvisaitaly/10340) | Февраль 2025 – Март 2026 |
 
 ### В Италии (после ВНЖ)
 

@@ -69,6 +69,8 @@
 | Nulla osta / SUI | [portaleservizi.dlci.interno.it](https://portaleservizi.dlci.interno.it/AliSportello/ali/home.htm) | Портал единого окна по иммиграции |
 | Codice Fiscale | [Agenzia delle Entrate](https://www.agenziaentrate.gov.it/portale/web/english/nse/individuals/tax-identification-number-for-foreign-citizens) | ИНН для иностранцев |
 | Residenza Милан | [Форма подачи](https://formshd2.comune.milano.it/rwe2/module_preview.jsp?MODULE_TAG=MOD_DDR_ESTERO) | Прописка онлайн (Милан) |
+| INCA (патронато) | [inca.it](https://inca.it/) | Помощь мигрантам с документами, налогами, консультации по INPS. Финансируется государством, отвечают быстро на англ/ит | [Чат #10432](https://t.me/nomadvisaitaly/10432), март 2026 |
+| Expiter (города Италии) | [expiter.com](https://expiter.com/app/?sort=Expat-friendly&region=All) | Информация о городах и регионах Италии для экспатов | [Чат #10410](https://t.me/nomadvisaitaly/10410), март 2026 |
 | CIE Милан | [comune.milano.it — CIE](https://www.comune.milano.it/servizi/anagrafe/carta-d-identita) | ID карта (Милан) |
 
 ## Налоги и калькуляторы
@@ -124,7 +126,8 @@
 | Имя | Контакт | Специализация | Источник |
 |-----|---------|---------------|----------|
 | Юлия (Emigrantista) | [@emigrantista_answers](https://t.me/emigrantista_answers) | Консультации по DN визе, помощь с документами | [@ne_putai/3526](https://t.me/ne_putai/3526), [Чат #4110](https://t.me/nomadvisaitaly/4110), октябрь 2025 |
-| Наталья Сохарева | — | Разработка сайтов, опыт в DN процессе (на ВНЖ Италии) | [Чат #9709](https://t.me/nomadvisaitaly/9709), февраль 2026 |
+| Наталья Сохарева | [@sokhareva](https://t.me/sokhareva) | Разработка сайтов, помощь с DN переездом (на ВНЖ Италии) | [Чат #9709](https://t.me/nomadvisaitaly/9709), [Чат #10494](https://t.me/nomadvisaitaly/10494), февраль–март 2026 |
+| Галина Киреева | [@GalinaKireeva](https://t.me/GalinaKireeva) | Помощь с DN переездом, положительные отзывы | [Чат #10492](https://t.me/nomadvisaitaly/10492), март 2026 |
 
 🟡 При выборе аккредитованного переводчика в Москве рекомендуется написать всем из списка консульства в WhatsApp. Условия обычно примерно одинаковые. Переводчики с активным сайтом часто имеют больше заказов, поэтому сроки могут быть дольше. | [Чат #8406](https://t.me/nomadvisaitaly/8406) | Декабрь 2025
 
@@ -136,4 +139,4 @@
 |-----|---------|----------|
 | MigRun | Негативный опыт по Италии | [Чат #3024](https://t.me/nomadvisaitaly/3024), [Чат #3030](https://t.me/nomadvisaitaly/3030), 2024 |
 
-*Последнее обновление: февраль 2026*
+*Последнее обновление: апрель 2026*
