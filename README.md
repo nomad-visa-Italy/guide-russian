@@ -6,7 +6,8 @@
 
 Этот гайд создан на основе:
 - **Официальных источников**: законодательство Италии, сайты консульств, визовых центров и государственных ведомств
-- **Реального опыта**: дамп Telegram-чата [Digital nomad Italy](https://t.me/nomadvisaitaly) (~8 800 сообщений, 2023–2026)
+- **Основного DN-сообщества**: дамп Telegram-чата [Digital nomad Italy](https://t.me/nomadvisaitaly) (~8 800 сообщений, 2023–2026)
+- **Смежных сообществ**: Telegram-чаты [emigrantista_answers](https://t.me/emigrantista_answers) (~1 700 сообщений), [immigrazia_IT](https://t.me/immigrazia_IT) (~6 700 сообщений), [rutoitaly](https://t.me/rutoitaly) (~500 сообщений), [rutoitalychat](https://t.me/rutoitalychat) (~103 000 сообщений, из которых отобраны DN-релевантные)
 - **Личного опыта**: канал [@ne_putai](https://t.me/ne_putai/3563) — детальный кейс получения визы через Москву (2025–2026)
 
 ## Система маркировки
@@ -23,7 +24,11 @@
 
 **Формат ссылок на источники:**
 - `[VMS Москва]` — сайт визового центра [italy-vms.ru](https://italy-vms.ru/)
-- `[Чат #1234]` — сообщение в Telegram-чате Digital nomad Italy (ID сообщения)
+- `[Чат #1234]` — сообщение в Telegram-чате [Digital nomad Italy](https://t.me/nomadvisaitaly) (основной DN-чат)
+- `[emigrantista #1234]` — сообщение в чате [emigrantista_answers](https://t.me/emigrantista_answers)
+- `[immigrazia_IT #1234]` — сообщение в чате [immigrazia_IT](https://t.me/immigrazia_IT)
+- `[rutoitaly #1234]` — сообщение в чате [rutoitaly](https://t.me/rutoitaly)
+- `[rutoitalychat #1234]` — сообщение в чате [rutoitalychat](https://t.me/rutoitalychat)
 - `[@ne_putai/1234]` — пост в канале @ne_putai
 - `[Консульство Москва]` — сайт консульства [consmosca.esteri.it](https://consmosca.esteri.it/)
 - `[Gazzetta Ufficiale]` — Официальный вестник Италии
