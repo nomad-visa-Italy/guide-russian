@@ -4,10 +4,6 @@
 
 > **Внимание!** Гайд не рекламирует и не рекомендует конкретных помогаторов. Профили составлены на основе отзывов из чата и открытых источников. Всегда проверяйте актуальность информации самостоятельно. Авторы гайда не несут ответственности за качество услуг.
 
----
-
-## Профили
-
 > **Сортировка:** профили упорядочены по количеству привязанных кейсов в [15-cases.md](15-cases.md) — чем больше подтверждённых историй, тем выше в списке.
 
 ---
@@ -127,13 +123,7 @@
 
 | | |
 |---|---|
-| **Контакт** | — |
-| **Сайт** | — |
 | **Обновлено** | 2024 |
-
-**Подтверждённые кейсы**
-
-*(Кейсы в 15-cases.md пока не привязаны)*
 
 **Предостережения**
 
@@ -147,7 +137,7 @@
 
 🟡 Некоторые переводчики имеют свои связи в консульстве и могут ускорить процесс легализации документов. | [Чат #9278](https://t.me/nomadvisaitaly/9278) | Февраль 2026
 
-Список аккредитованных переводчиков: [consmosca.esteri.it — список](https://consmosca.esteri.it/ru/servizi-consolari-e-visti/servizi-per-il-cittadino-italiano/traduzione-e-legalizzazione-dei-documenti/elenco-dei-traduttori-accreditati/)
+🟢 Список аккредитованных переводчиков: [consmosca.esteri.it — список](https://consmosca.esteri.it/ru/servizi-consolari-e-visti/servizi-per-il-cittadino-italiano/traduzione-e-legalizzazione-dei-documenti/elenco-dei-traduttori-accreditati/)
 
 ### Д. Кудинов
 
