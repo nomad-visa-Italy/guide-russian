@@ -11,9 +11,10 @@
 ## Структура файлов
 
 ```
-.ai/
-  prompt-update-guide.md        ← промпт для обновления гайда из основного чата
-  prompt-extract-sparse-data.md ← промпт для обработки внешних чатов (emigrantista, rutoitaly и т.д.)
+.claude/skills/
+  update-guide/SKILL.md              ← скил: обновление гайда из основного чата
+  extract-sparse-data/SKILL.md       ← скил: извлечение из внешних чатов
+  extract-sparse-data/references/    ← референсные Python-скрипты
 
 .datasource/YYYY-MM-DD/         ← дампы чатов, сгруппированные по дате экспорта
   nomadvisaitaly_YYYY-MM-DD/    ← основной DN-чат (result.json + threads/)
@@ -111,11 +112,11 @@ README.md                         ← оглавление + система ма
 
 ---
 
-## Два рабочих процесса (промпты в .ai/)
+## Два рабочих процесса (скилы в .claude/skills/)
 
 ### 1. Обновление из основного DN-чата
 
-Промпт: `.ai/prompt-update-guide.md`
+Скил: `.claude/skills/update-guide/SKILL.md` — триггерится автоматически при запросе на обновление гайда из дампа nomadvisaitaly.
 
 Процесс: разбивка `result.json` на треды → **поиск полных кейсов → вставка в `15-cases.md`** → извлечение фактов → обновление гайда.
 
@@ -123,7 +124,7 @@ README.md                         ← оглавление + система ма
 
 ### 2. Извлечение из внешних чатов (разреженные данные)
 
-Промпт: `.ai/prompt-extract-sparse-data.md`
+Скил: `.claude/skills/extract-sparse-data/SKILL.md` — триггерится при запросе на обработку внешних чатов.
 
 Чаты: emigrantista_answers, immigrazia_IT, rutoitaly, rutoitalychat. Только ≤1% сообщений релевантны DN. Алгоритм: grep по tier-1/2/3 паттернам → расширение контекста → **обязательная верификация DN-релевантности** → извлечение.
 
