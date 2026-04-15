@@ -1,0 +1,23 @@
+{
+  "permissions": {
+    "allow": [
+      "Read",
+      "Grep",
+      "Glob",
+      "WebSearch",
+    ]
+  },
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "Bash",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "[ -f \"$CLAUDE_PROJECT_DIR/.claude/hooks/approve_safe_commands.py\" ] && python3 \"$CLAUDE_PROJECT_DIR/.claude/hooks/approve_safe_commands.py\" || exit 0"
+          }
+        ]
+      }
+    ]
+  }
+}
