@@ -1,0 +1,54 @@
+# 21. Сводка расходов
+
+> **Коротко:** Минимальный бюджет на получение визы DN через Москву — ~100 000 руб. (~1 000 EUR). На переезд в Милан с обустройством — минимум €15 000. Итого: от ~€2 000 (провинция) до €20 000+ (Милан с семьёй).
+
+---
+
+## Расходы на получение визы
+
+| Статья | Сумма | Подробнее |
+|--------|-------|-----------|
+| Консульский сбор | 116 EUR | [01-overview.md](01-overview.md) |
+| Сервисный сбор VMS (Москва) | ~3 850 руб. | [10-consulates.md](10-consulates.md) |
+| Апостиль диплома | 2 500 руб. | [04-preparation.md](04-preparation.md) |
+| DDV (2 диплома) | ~258 EUR | [04-preparation.md](04-preparation.md) |
+| Перевод диплома | 5 000–6 000 руб. | [04-preparation.md](04-preparation.md) |
+| Перевод всех документов | 20 000–44 000 руб. | [04-preparation.md](04-preparation.md) |
+| Консульское заверение переводов | 13 EUR/стр. | [04-preparation.md](04-preparation.md) |
+| Страховка (год) | от 14 000 руб. | [08-insurance.md](08-insurance.md) |
+| Билет в один конец | от 34 000 руб. | [06-documents-autonomous.md](06-documents-autonomous.md) |
+| **Итого минимум (Москва)** | **~100 000 руб.** | [01-overview.md](01-overview.md) |
+
+## Расходы после приезда
+
+| Статья | Сумма | Подробнее |
+|--------|-------|-----------|
+| KIT (permesso di soggiorno) | ~116,46 EUR | [12-first-steps.md](12-first-steps.md) |
+| Commercialista (бухгалтер) | ~400 EUR/год + 80 EUR открытие ИП | [15-taxes.md](15-taxes.md) |
+| Tessera sanitaria (добровольная) | ~2 000 EUR/год | [08-insurance.md](08-insurance.md) |
+
+## Расходы на жильё (Милан)
+
+| Статья | Сумма | Подробнее |
+|--------|-------|-----------|
+| Airbnb на первое время (1,5 мес.) | ~4 000 EUR | [14-housing-italy.md](14-housing-italy.md) |
+| Депозит (3–6 месяцев) | 4 200–8 400 EUR | [14-housing-italy.md](14-housing-italy.md) |
+| Комиссия агента (~15% годовой) | ~2 500 EUR | [14-housing-italy.md](14-housing-italy.md) |
+| Первый месяц аренды | 1 400+ EUR | [14-housing-italy.md](14-housing-italy.md) |
+| **Минимум на переезд в Милан** | **~15 000 EUR** | [14-housing-italy.md](14-housing-italy.md) |
+
+## Другие города
+
+| Город | Аренда/мес. | Подробнее |
+|-------|-------------|-----------|
+| Лекко | ~800 EUR | [14-housing-italy.md](14-housing-italy.md) |
+| Болонья | ~1 370 EUR (студия) | [14-housing-italy.md](14-housing-italy.md) |
+| Генуя | дешевле Милана | [14-housing-italy.md](14-housing-italy.md) |
+| Палермо | растущий хаб | [14-housing-italy.md](14-housing-italy.md) |
+
+## Расходы с семьёй
+
+| Статья | Сумма | Подробнее |
+|--------|-------|-----------|
+| Страховка на семью (3 чел.) | ~6 000 EUR/год | [16-family-process.md](16-family-process.md) |
+| Полный кейс с агентством (семья 3) | ~20 000 EUR | [18-cases.md](18-cases.md) |

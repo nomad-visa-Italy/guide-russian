@@ -69,8 +69,8 @@
 | Nulla osta / SUI | [portaleservizi.dlci.interno.it](https://portaleservizi.dlci.interno.it/AliSportello/ali/home.htm) | Портал единого окна по иммиграции |
 | Codice Fiscale | [Agenzia delle Entrate](https://www.agenziaentrate.gov.it/portale/web/english/nse/individuals/tax-identification-number-for-foreign-citizens) | ИНН для иностранцев |
 | Residenza Милан | [Форма подачи](https://formshd2.comune.milano.it/rwe2/module_preview.jsp?MODULE_TAG=MOD_DDR_ESTERO) | Прописка онлайн (Милан) |
-| INCA (патронато) | [inca.it](https://inca.it/) | Помощь мигрантам с документами, налогами, консультации по INPS. Финансируется государством, отвечают быстро на англ/ит | [Чат #10432](https://t.me/nomadvisaitaly/10432), март 2026 |
-| Expiter (города Италии) | [expiter.com](https://expiter.com/app/?sort=Expat-friendly&region=All) | Информация о городах и регионах Италии для экспатов | [Чат #10410](https://t.me/nomadvisaitaly/10410), март 2026 |
+| INCA (патронато) | [inca.it](https://inca.it/) | Помощь мигрантам с документами, налогами, консультации по INPS. Финансируется государством, отвечают быстро на англ/ит | [nomadvisaitaly #10432](https://t.me/nomadvisaitaly/10432), март 2026 |
+| Expiter (города Италии) | [expiter.com](https://expiter.com/app/?sort=Expat-friendly&region=All) | Информация о городах и регионах Италии для экспатов | [nomadvisaitaly #10410](https://t.me/nomadvisaitaly/10410), март 2026 |
 | CIE Милан | [comune.milano.it — CIE](https://www.comune.milano.it/servizi/anagrafe/carta-d-identita) | ID карта (Милан) |
 
 ## Налоги и калькуляторы
@@ -114,8 +114,8 @@
 |--------|--------|----------|
 | Digital nomad Italy | [t.me/nomadvisaitaly](https://t.me/nomadvisaitaly) | Основной чат по DN визе в Италию |
 | @ne_putai | [t.me/ne_putai](https://t.me/ne_putai/3563) | Личный опыт получения DN визы (Москва, 2025–2026) |
-| Венгрия — Digital Nomad Hungary | — | Активное сообщество с качественной модерацией | 🟡 [Чат #4047](https://t.me/nomadvisaitaly/4047) | 2024 |
-| Греция — Work from Greece | [https://workfromgreece.gr](https://workfromgreece.gr) | Официальный сайт греческого консульства | 🟡 [Чат #854](https://t.me/nomadvisaitaly/854) | 2025 |
+| Венгрия — Digital Nomad Hungary | — | Активное сообщество с качественной модерацией | 🟡 [nomadvisaitaly #4047](https://t.me/nomadvisaitaly/4047) | 2024 |
+| Греция — Work from Greece | [https://workfromgreece.gr](https://workfromgreece.gr) | Официальный сайт греческого консульства | 🟡 [nomadvisaitaly #854](https://t.me/nomadvisaitaly/854) | 2025 |
 
 ## Консультанты и помогаторы
 
@@ -125,18 +125,18 @@
 
 | Имя | Контакт | Специализация | Источник |
 |-----|---------|---------------|----------|
-| Юлия (Emigrantista) | [@emigrantista_answers](https://t.me/emigrantista_answers) | Консультации по DN визе, помощь с документами | [@ne_putai/3526](https://t.me/ne_putai/3526), [Чат #4110](https://t.me/nomadvisaitaly/4110), октябрь 2025 |
-| Наталья Сохарева | [@sokhareva](https://t.me/sokhareva) | Разработка сайтов, помощь с DN переездом (на ВНЖ Италии) | [Чат #9709](https://t.me/nomadvisaitaly/9709), [Чат #10494](https://t.me/nomadvisaitaly/10494), февраль–март 2026 |
-| Галина Киреева | [@GalinaKireeva](https://t.me/GalinaKireeva) | Помощь с DN переездом, положительные отзывы | [Чат #10492](https://t.me/nomadvisaitaly/10492), март 2026 |
+| Юлия (Emigrantista) | [@emigrantista_answers](https://t.me/emigrantista_answers) | Консультации по DN визе, помощь с документами | [ne_putai #3526](https://t.me/ne_putai/3526), [nomadvisaitaly #4110](https://t.me/nomadvisaitaly/4110), октябрь 2025 |
+| Наталья Сохарева | [@sokhareva](https://t.me/sokhareva) | Разработка сайтов, помощь с DN переездом (на ВНЖ Италии) | [nomadvisaitaly #9709](https://t.me/nomadvisaitaly/9709), [nomadvisaitaly #10494](https://t.me/nomadvisaitaly/10494), февраль–март 2026 |
+| Галина Киреева | [@GalinaKireeva](https://t.me/GalinaKireeva) | Помощь с DN переездом, положительные отзывы | [nomadvisaitaly #10492](https://t.me/nomadvisaitaly/10492), март 2026 |
 
-🟡 При выборе аккредитованного переводчика в Москве рекомендуется написать всем из списка консульства в WhatsApp. Условия обычно примерно одинаковые. Переводчики с активным сайтом часто имеют больше заказов, поэтому сроки могут быть дольше. | [Чат #8406](https://t.me/nomadvisaitaly/8406) | Декабрь 2025
+🟡 При выборе аккредитованного переводчика в Москве рекомендуется написать всем из списка консульства в WhatsApp. Условия обычно примерно одинаковые. Переводчики с активным сайтом часто имеют больше заказов, поэтому сроки могут быть дольше. | [nomadvisaitaly #8406](https://t.me/nomadvisaitaly/8406) | Декабрь 2025
 
-🟡 Некоторые переводчики имеют свои связи в консульстве и могут ускорить процесс легализации документов. | [Чат #9278-9291](https://t.me/nomadvisaitaly/9278) | Февраль 2026
+🟡 Некоторые переводчики имеют свои связи в консульстве и могут ускорить процесс легализации документов. | [nomadvisaitaly #9278-9291](https://t.me/nomadvisaitaly/9278) | Февраль 2026
 
 ### С осторожностью
 
 | Имя | Причина | Источник |
 |-----|---------|----------|
-| MigRun | Негативный опыт по Италии | [Чат #3024](https://t.me/nomadvisaitaly/3024), [Чат #3030](https://t.me/nomadvisaitaly/3030), 2024 |
+| MigRun | Негативный опыт по Италии | [nomadvisaitaly #3024](https://t.me/nomadvisaitaly/3024), [nomadvisaitaly #3030](https://t.me/nomadvisaitaly/3030), 2024 |
 
 *Последнее обновление: апрель 2026*
