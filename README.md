@@ -22,17 +22,6 @@
 
 После маркера указывается **источник** (ссылка) и **дата** информации, если известна.
 
-**Формат ссылок на источники (кликабельные):**
-- `[VMS Москва]` — сайт визового центра [italy-vms.ru](https://italy-vms.ru/)
-- `[nomadvisaitaly #1234](https://t.me/nomadvisaitaly/1234)` — сообщение в Telegram-чате [Digital nomad Italy](https://t.me/nomadvisaitaly) (основной DN-чат)
-- `[emigrantista #1234](https://t.me/emigrantista_answers/1234)` — сообщение в чате [emigrantista_answers](https://t.me/emigrantista_answers)
-- `[immigrazia_IT #1234](https://t.me/immigrazia_IT/1234)` — сообщение в чате [immigrazia_IT](https://t.me/immigrazia_IT)
-- `[rutoitaly #1234](https://t.me/rutoitaly/1234)` — сообщение в чате [rutoitaly](https://t.me/rutoitaly)
-- `[rutoitalychat #1234](https://t.me/rutoitalychat/1234)` — сообщение в чате [rutoitalychat](https://t.me/rutoitalychat)
-- `[ne_putai #1234](https://t.me/ne_putai/1234)` — пост в канале @ne_putai
-- `[Консульство Москва]` — сайт консульства [consmosca.esteri.it](https://consmosca.esteri.it/)
-- `[Gazzetta Ufficiale]` — Официальный вестник Италии
-
 ## Дисклеймер
 
 > **Внимание!** Этот гайд носит информационный характер и не является юридической консультацией. Процедуры и требования могут меняться. Всегда проверяйте актуальную информацию на официальных сайтах консульств и визовых центров перед подачей документов. Авторы не несут ответственности за последствия использования данной информации.
