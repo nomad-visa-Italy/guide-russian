@@ -54,6 +54,10 @@
 
 🟡 Стоимость permesso: ~**116,46 EUR** (оплата на почте + produzione + marca da bollo). | [nomadvisaitaly #7185](https://t.me/nomadvisaitaly/7185) | Октябрь 2025
 
+🟡 **Детальный разбор стоимости КИТ (апрель 2026):** пересылка Poste Italiane — **30€**; bollettino (30,36 + 40,00) — **70,46€**; marca da bollo — **16€**; сервисный сбор почты — **~2€** (в Савоне). Итого **~118€**. Расценки: [portaleimmigrazione.it/ITA/tabelleCosti.html](https://www.portaleimmigrazione.it/ITA/tabelleCosti.html). | [nomadvisaitaly #11117](https://t.me/nomadvisaitaly/11117), [nomadvisaitaly #11118](https://t.me/nomadvisaitaly/11118) | Апрель 2026
+
+🟡 **Совет: если нет привязки к городу, подавать КИТ в Милане.** В Милане сроки от подачи до пластика — 2–3 месяца. В Генуе — 3–5 мес на отпечатки, практика может тянуться 11+ мес. После получения ВНЖ можно переехать, сделать резиденцу и CIE в нужном городе. Исключение: семьи с детьми в школе привязаны к месту проживания. | [nomadvisaitaly #11225](https://t.me/nomadvisaitaly/11225), [nomadvisaitaly #11229](https://t.me/nomadvisaitaly/11229) | Апрель 2026
+
 ## Шаг 3: Квестура — отпечатки и ожидание ВНЖ
 
 🟡 После подачи KIT назначают дату посещения квестуры. В **Милане** — через **1–2 месяца**. В Венеции — запись через **год** (!). В **Турине** — ожидание отпечатков после KIT составляет **~6 месяцев**. | [ne_putai #3567](https://t.me/ne_putai/3567), [nomadvisaitaly #688](https://t.me/nomadvisaitaly/688), [nomadvisaitaly #7802](https://t.me/nomadvisaitaly/7802) | 2024–2025
@@ -102,13 +106,13 @@
 
 🟡 Известные сроки ожидания отпечатков после подачи KIT:
 — **Милан**: ~1–2 месяца (один из самых быстрых городов)
-— **Генуя**: ~1–2 месяца
+— **Генуя**: ~3–5 месяцев (в апреле 2026 дату назначили через 3 мес; в 2025 году — через 5 мес; практика может оставаться «в работе» 11+ мес)
 — **Лекко**: ~5 месяцев (дата из системы; квестура может перенести на более раннее — стоит спросить лично)
 — **Турин**: ~6 месяцев (стандартная очередь)
 — **Венеция**: до 1 года (на продление)
 — **Сардиния (Nuoro)**: ~2 месяца (первичная подача); при продлении — отпечатки могут назначить уже через **~2 недели** после KIT
 — **Малые города / острова**: по слухам, можно получить пластик за 3 месяца, если город совсем непопулярный
-| [nomadvisaitaly #6907](https://t.me/nomadvisaitaly/6907), [nomadvisaitaly #7802](https://t.me/nomadvisaitaly/7802), [nomadvisaitaly #8941](https://t.me/nomadvisaitaly/8941), [nomadvisaitaly #5349](https://t.me/nomadvisaitaly/5349), [nomadvisaitaly #1414](https://t.me/nomadvisaitaly/1414), [rutoitalychat #49518](https://t.me/rutoitalychat/49518) | 2024–2025
+| [nomadvisaitaly #6907](https://t.me/nomadvisaitaly/6907), [nomadvisaitaly #7802](https://t.me/nomadvisaitaly/7802), [nomadvisaitaly #8941](https://t.me/nomadvisaitaly/8941), [nomadvisaitaly #5349](https://t.me/nomadvisaitaly/5349), [nomadvisaitaly #1414](https://t.me/nomadvisaitaly/1414), [rutoitalychat #49518](https://t.me/rutoitalychat/49518), [nomadvisaitaly #11222](https://t.me/nomadvisaitaly/11222), [nomadvisaitaly #11224](https://t.me/nomadvisaitaly/11224) | 2024–2026
 
 🟡 **Турин — сроки зависят от типа ВНЖ:** студенческий — через ~6 месяцев, ожидание занятости — через ~8 месяцев, рабочий — через ~4 месяца. DN предположительно ближе к рабочему типу. | [rutoitalychat #109870](https://t.me/rutoitalychat/109870) | Сентябрь 2025
 
@@ -159,6 +163,16 @@
 ### KIT: тип пермессо в анкете
 
 🟡 В анкете KIT в поле «Codice Tipologia Permesso» (п. 16) для Digital Nomad указывается код **«15 Lavoro Autonomo»**. | [nomadvisaitaly #7022](https://t.me/nomadvisaitaly/7022) | Сентябрь 2025
+
+### KIT: Модуль 2 — как заполнять без Partita IVA
+
+🟡 **Модуль 2 нужно подавать.** Обе стороны дискуссии в чате согласны — модуль 2 подаётся. Спор только о том, **насколько подробно заполнять**, если у DN ещё нет Partita IVA и Codice Fiscale. | [nomadvisaitaly #11032](https://t.me/nomadvisaitaly/11032), [nomadvisaitaly #11040](https://t.me/nomadvisaitaly/11040) | Апрель 2026
+
+**Что заполнять минимально:** Поставить галочку «автономная работа» (autonomo). Для DN нет отдельной инструкции к КИТ — ориентироваться на инструкцию для lavoro autonomo. Даже если нет номера Partita, обозначить род будущей деятельности. | [nomadvisaitaly #11032](https://t.me/nomadvisaitaly/11032), [nomadvisaitaly #11056](https://t.me/nomadvisaitaly/11056), [nomadvisaitaly #11084](https://t.me/nomadvisaitaly/11084) | Апрель 2026
+
+**⚠️ Не указывайте «деятельность начата в этом году», если Partita не открыта.** Практический пример риска (Милан): DN поставил эту галочку в модуле 2, но открыть Partita IVA без Codice и ВНЖ не мог. На отпечатках квестура спросила: «где Partita? Вы же указали, что деятельность начата». | [nomadvisaitaly #11083](https://t.me/nomadvisaitaly/11083) | Апрель 2026
+
+**Независимое подтверждение (канал immigrazia_IT):** Детальный пост — модуль 2 нужно заполнять. Без него — формально недостаток документов, квестура может отклонить. | [immigrazia_IT #6797](https://t.me/immigrazia_IT/6797) | Апрель 2026
 
 ### Оспиталита и квестура
 
