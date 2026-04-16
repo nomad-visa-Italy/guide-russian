@@ -1,5 +1,7 @@
 # 13. Обустройство в Италии
 
+[← Первые шаги](12-first-steps.md) | [Жильё в Италии →](14-housing-italy.md)
+
 > **Коротко:** После КИТ и квестуры — оформить прописку (residenza), codice fiscale, ID карту, банк, ИП. Порядок зависимостей: ВНЖ → Codice Fiscale → Residenza → Carta di Identità → Банк → Partita IVA → INPS (30 дней).
 >
 > **Важно:** Без residenza forfettario недоступен — см. [Налоги](15-taxes.md).
