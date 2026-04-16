@@ -5,6 +5,9 @@
 - [Переводчики](#переводчики)
   - [Москва](#москва)
   - [Ереван](#ереван)
+  - [Тбилиси](#тбилиси)
+  - [Белград](#белград)
+  - [Санкт-Петербург](#санкт-петербург)
 
 ---
 
@@ -185,6 +188,23 @@
 
 ### Ереван
 
-🟢 Список аккредитованных переводчиков при посольстве Италии в Ереване: [ambjerevan.esteri.it — переводы и легализация](https://ambjerevan.esteri.it/en/servizi-consolari-e-visti/servizi-per-il-cittadino-italiano/traduzione-e-legalizzazione-dei-documenti/)
+🟢 Список аккредитованных переводчиков при посольстве Италии в Ереване (2 переводчика): [ambjerevan.esteri.it — переводы и легализация](https://ambjerevan.esteri.it/en/servizi-consolari-e-visti/servizi-per-il-cittadino-italiano/traduzione-e-legalizzazione-dei-documenti/)
+
+---
+
+### Тбилиси
+
+🟢 Список переводчиков при посольстве Италии в Тбилиси (18 переводчиков): [ambtbilisi.esteri.it — lista traduttori (.doc)](https://ambtbilisi.esteri.it/wp-content/uploads/2023/10/sito_lista_traduttori.doc)
+
+---
+
+### Белград
+
+🟢 Список присяжных переводчиков при посольстве Италии в Белграде: [ambbelgrado.esteri.it — albo consolare](https://ambbelgrado.esteri.it/it/servizi-consolari-e-visti/servizi-per-il-cittadino-italiano/albo-consolare-e-altri-servizi/)
+
+---
+
+### Санкт-Петербург
+
 
 *Последнее обновление: апрель 2026*
