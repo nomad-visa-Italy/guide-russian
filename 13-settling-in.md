@@ -4,6 +4,13 @@
 >
 > **Важно:** Без residenza forfettario недоступен — см. [Налоги](15-taxes.md).
 
+**Содержание:**
+- [Шаг 4: Прописка (Residenza)](#шаг-4-прописка-residenza)
+- [Шаг 5: Codice Fiscale (налоговый код)](#шаг-5-codice-fiscale-налоговый-код)
+- [Шаг 6: Carta di Identità (CIE) — ID карта](#шаг-6-carta-di-identità-cie--id-карта)
+- [Шаг 7: Банковский счёт](#шаг-7-банковский-счёт)
+- [Шаг 8: Регистрация ИП (Partita IVA)](#шаг-8-регистрация-ип-partita-iva)
+
 ---
 
 ## Шаг 4: Прописка (Residenza)
