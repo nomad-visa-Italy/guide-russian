@@ -112,4 +112,4 @@
 
 ---
 
-**Далее:** [Жильё для визы →](09-housing-for-visa.md)
+[← Документы: наёмные сотрудники](07-documents-employed.md) | [Жильё для визы →](09-housing-for-visa.md)

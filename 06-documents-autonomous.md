@@ -106,4 +106,4 @@
 
 ---
 
-**Далее:** [Документы: наёмные →](07-documents-employed.md)
+[← Общие документы](05-documents-common.md) | [Документы: наёмные сотрудники →](07-documents-employed.md)

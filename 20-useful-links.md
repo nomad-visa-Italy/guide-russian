@@ -140,3 +140,7 @@
 | MigRun | Негативный опыт по Италии | [nomadvisaitaly #3024](https://t.me/nomadvisaitaly/3024), [nomadvisaitaly #3030](https://t.me/nomadvisaitaly/3030), 2024 |
 
 *Последнее обновление: апрель 2026*
+
+---
+
+[← Помогаторы](19-helpers.md) | [Сводка расходов →](21-costs.md)
