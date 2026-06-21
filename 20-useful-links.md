@@ -85,6 +85,10 @@
 | INCA (патронато) | [inca.it](https://inca.it/) | Помощь мигрантам с документами, налогами, консультации по INPS. Финансируется государством, отвечают быстро на англ/ит | [nomadvisaitaly #10432](https://t.me/nomadvisaitaly/10432), март 2026 |
 | Expiter (города Италии) | [expiter.com](https://expiter.com/app/?sort=Expat-friendly&region=All) | Информация о городах и регионах Италии для экспатов | [nomadvisaitaly #10410](https://t.me/nomadvisaitaly/10410), март 2026 |
 | CIE Милан | [comune.milano.it — CIE](https://www.comune.milano.it/servizi/anagrafe/carta-d-identita) | ID карта (Милан) |
+| CIMEA | [cimea.it](https://www.cimea.it/EN/pagina-chi-siamo) | Attestazione di Comparabilità — онлайн-альтернатива DDV, применима к российским дипломам (сроки ~1 месяц) |
+| КИТ — инструкция | [rutoitaly.com/kit](https://rutoitaly.com/kit/) | Пошаговое заполнение модулей КИТ |
+| Тессера санитария (Милан) | [prenota.zerocoda.it](https://prenota.zerocoda.it/) | Запись на выбор/смену врача и тессеру (Милан) |
+| PEC — Aruba | [aruba.it](https://www.pec.it/) | PEC без пермессо: паспорт 3-й страны + кодиче; без сертификации письма уже работают |
 
 ## Налоги и калькуляторы
 
@@ -97,6 +101,7 @@
 | ISTAT — средняя зарплата | [dati.istat.it](http://dati.istat.it/viewhtml.aspx?il=blank&vh=0000&vf=0&vcq=1100&graph=0&viewmetadata=1&lang=it&QueryId=12006) | Средний доход (для расчёта min для наёмных) |
 | Двойное налогообложение РФ | [consultant.ru](https://www.consultant.ru/document/cons_doc_LAW_454278/#dst100050) | Указ Президента РФ об отмене соглашения |
 | Статус соглашений | [minfin.gov.ru](https://minfin.gov.ru/ru/document?id_4=307315) | Минфин — статус международных договоров |
+| movetoitaly.org (Андрей Медведев) | [movetoitaly.org](https://www.movetoitaly.org) | Статьи по DN для наёмных, налогам, школам, конвертации прав |
 
 ## Жильё
 
@@ -129,6 +134,8 @@
 | @ne_putai | [t.me/ne_putai](https://t.me/ne_putai/3563) | Личный опыт получения DN визы (Москва, 2025–2026) |
 | Венгрия — Digital Nomad Hungary | — | Активное сообщество с качественной модерацией | 🟡 [nomadvisaitaly #4047](https://t.me/nomadvisaitaly/4047) | 2024 |
 | Греция — Work from Greece | [https://workfromgreece.gr](https://workfromgreece.gr) | Официальный сайт греческого консульства | 🟡 [nomadvisaitaly #854](https://t.me/nomadvisaitaly/854) | 2025 |
+| @vezupandu — перевозчик | [t.me/PrivezuPandu](https://t.me/PrivezuPandu) | Частный перевозчик Москва–ЕС с животными и вещами (минивэн, ~3500€ Москва–Милан) | 🟡 [nomadvisaitaly #11926](https://t.me/nomadvisaitaly/11926) | май 2026 |
+| ponaehali.am — ВНЖ Армении | [ponaehali.am](https://ponaehali.am/) | Про ВНЖ Армении (по ИП/таланту) для последующей подачи на DN | 🟡 [nomadvisaitaly #13034](https://t.me/nomadvisaitaly/13034) | июнь 2026 |
 
 ## Консультанты и помогаторы
 
@@ -139,7 +146,7 @@
 | Имя | Контакт | Специализация | Источник |
 |-----|---------|---------------|----------|
 | Юлия (Emigrantista) | [@emigrantista_answers](https://t.me/emigrantista_answers) | Консультации по DN визе, помощь с документами | [ne_putai #3526](https://t.me/ne_putai/3526), [nomadvisaitaly #4110](https://t.me/nomadvisaitaly/4110), октябрь 2025 |
-| Наталья Сохарева | [@sokhareva](https://t.me/sokhareva) | Разработка сайтов, помощь с DN переездом (на ВНЖ Италии) | [nomadvisaitaly #9709](https://t.me/nomadvisaitaly/9709), [nomadvisaitaly #10494](https://t.me/nomadvisaitaly/10494), февраль–март 2026 |
+| Наталья Сохарева | [@sokhareva](https://t.me/sokhareva) | Помощь с DN переездом (на ВНЖ Италии), работает в офисе коммерчиалиста; ведёт статистику сроков выдачи виз | [nomadvisaitaly #9709](https://t.me/nomadvisaitaly/9709), [nomadvisaitaly #11540](https://t.me/nomadvisaitaly/11540), [nomadvisaitaly #12990](https://t.me/nomadvisaitaly/12990), февраль–июнь 2026 |
 | Галина Киреева | [@GalinaKireeva](https://t.me/GalinaKireeva) | Помощь с DN переездом, положительные отзывы | [nomadvisaitaly #10492](https://t.me/nomadvisaitaly/10492), март 2026 |
 
 🟡 При выборе аккредитованного переводчика в Москве рекомендуется написать всем из списка консульства в WhatsApp. Условия обычно примерно одинаковые. Переводчики с активным сайтом часто имеют больше заказов, поэтому сроки могут быть дольше. | [nomadvisaitaly #8406](https://t.me/nomadvisaitaly/8406) | Декабрь 2025

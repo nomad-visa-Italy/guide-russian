@@ -1,0 +1,29 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(wc -l /Users/inikans/Personal/Nomad/guide-russian/.datasource/2026-04-06/*/result.json)",
+      "Bash(for f:*)",
+      "Bash(do echo:*)",
+      "Bash(python3 -c \"import json; d=json.load\\(open\\(''$f''\\)\\); print\\(f''name: {d[\"\"name\"\"]}''\\); print\\(f''type: {d[\"\"type\"\"]}''\\); print\\(f''messages: {len\\(d[\"\"messages\"\"]\\)}''\\)\")",
+      "Bash(done)",
+      "Bash(python3 .datasource/2026-04-06/extract_rutoitalychat.py)",
+      "Bash(python3:*)",
+      "Bash(ls /Users/inikans/Personal/Nomad/guide-russian/*.md)",
+      "WebFetch(domain:t.me)",
+      "Bash(git diff:*)",
+      "Bash(perl -i -pe 's/\\\\[rutoitalychat #\\(\\\\d+\\)\\\\]\\(?!\\\\\\(\\)/[rutoitalychat #$1]\\(https:\\\\/\\\\/t.me\\\\/rutoitalychat\\\\/$1\\)/g' 02-eligibility.md 03-documents-autonomous.md 06-consulates.md 07-application-and-visa.md 08-after-arrival.md 09-taxes.md 10-housing.md 11-insurance.md 12-family.md 13-renewal.md)",
+      "Bash(git mv:*)",
+      "Bash(git rm:*)",
+      "Bash(ls /Users/inikans/Personal/Nomad/guide-russian/*_old* /Users/inikans/Personal/Nomad/guide-russian/*-old*)",
+      "WebFetch(domain:consjerevan.esteri.it)",
+      "WebSearch",
+      "WebFetch(domain:ambjerevan.esteri.it)",
+      "WebFetch(domain:conspietroburgo.esteri.it)",
+      "WebFetch(domain:ambtbilisi.esteri.it)",
+      "WebFetch(domain:ambbelgrado.esteri.it)",
+      "WebFetch(domain:consistanbul.esteri.it)",
+      "WebFetch(domain:ambtelaviv.esteri.it)",
+      "WebFetch(domain:spb.legalizuem.ru)"
+    ]
+  }
+}
