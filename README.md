@@ -7,7 +7,7 @@
 Этот гайд создан на основе:
 - **Официальных источников**: законодательство Италии, сайты консульств, визовых центров и государственных ведомств
 - **Основного DN-сообщества**: дамп Telegram-чата [Digital nomad Italy](https://t.me/nomadvisaitaly) (~10 400 сообщений, 2023–2026)
-- **Смежных сообществ**: Telegram-чаты [emigrantista_answers](https://t.me/emigrantista_answers) (~1 700 сообщений), [immigrazia_IT](https://t.me/immigrazia_IT) (~6 700 сообщений), [rutoitaly](https://t.me/rutoitaly) (~500 сообщений), [rutoitalychat](https://t.me/rutoitalychat) (~103 000 сообщений, из которых отобраны DN-релевантные)
+- **Смежных сообществ**: Telegram-чаты [emigrantista_answers](https://t.me/emigrantista_answers) (~1 760 сообщений), [immigrazia_IT](https://t.me/immigrazia_IT) (~7 350 сообщений), [rutoitaly](https://t.me/rutoitaly) (~610 сообщений), [rutoitalychat](https://t.me/rutoitalychat) (~106 000 сообщений, из которых отобраны DN-релевантные). Внешние чаты обновлены дампом от 21 июня 2026
 - **Личного опыта**: канал [@ne_putai](https://t.me/ne_putai/3563) — детальный кейс получения визы через Москву (2025–2026)
 
 ## Система маркировки
