@@ -60,6 +60,14 @@
 - **Нидерланды:** Ошибочно считают, что декларация должна быть подписана в отношении заявителя, а не работодателя. | [nomadvisaitaly #3766](https://t.me/nomadvisaitaly/3766) | Октябрь 2024
 - **Разные консульства по-разному:** Где-то декларацию о несудимости нужно заверять, где-то нет. Где-то нужен билет, где-то нет. По каждому пункту — уточняйте в конкретном консульстве. | [nomadvisaitaly #4233](https://t.me/nomadvisaitaly/4233) | Ноябрь 2024
 
+#### Шаблон декларации работодателя (образец текста)
+
+🟡 Шаблон декларации работодателя об отсутствии судимости за преступления в сфере незаконной иммиграции (требуется по ст. 3, п. 5 декрета МВД Италии от 29.02.2024; отсылка на ст. 22, п. 5-bis Единого иммиграционного акта). Английский текст, который приводили в чате (в оригинале сообщения параграф прочитывался как «S-bis» — вероятно, распознавание «5-bis»):
+
+> In reference to the purposes expressed in paragraph 5 of Article 3 of the Legislative Decree of the Italian Ministry of the Interior, dated February 29, 2024, I, the undersigned [ИМЯ], in my capacity as legal representative of [company name], hereby declare that I haven't received any convictions in the last five years for crimes provided for in Article 22, paragraph 5-bis, of the Consolidated Immigration Act. Attached to this declaration, I am enclosing a copy of a valid identification document to verify the undersigned's identity. Sincerely, [имя], [данные компании]
+
+К декларации прикладывается копия удостоверения личности подписанта. Дополнительный образец есть в канале [ne_putai #3572](https://t.me/ne_putai/3572). | [nomadvisaitaly #13473](https://t.me/nomadvisaitaly/13473), [nomadvisaitaly #13479](https://t.me/nomadvisaitaly/13479) | 2 июля 2026
+
 ### 3. Копия удостоверения личности подписанта
 
 🟢 К письму прикладывается копия действующего удостоверения личности лица, подписавшего письмо. | [Консульство Стамбул (PDF)](https://consistanbul.esteri.it/wp-content/uploads/2024/05/Lavoratore-da-Remoto-ITA.pdf) | 2024

@@ -1,6 +1,6 @@
 # 21. Сводка расходов
 
-[← Полезные ссылки](20-useful-links.md)
+[← Полезные ссылки](20-useful-links.md) | [Медицина →](22-healthcare.md)
 
 > **Коротко:** Минимальный бюджет на получение визы DN через Москву — ~100 000 руб. (~1 000 EUR). На переезд в Милан с обустройством — минимум €15 000. Итого: от ~€2 000 (провинция) до €20 000+ (Милан с семьёй).
 
@@ -34,7 +34,8 @@
 |--------|-------|-----------|
 | KIT (permesso di soggiorno) | ~116,46 EUR | [12-first-steps.md](12-first-steps.md) |
 | Commercialista (бухгалтер) | ~400 EUR/год + 80 EUR открытие ИП | [15-taxes.md](15-taxes.md) |
-| Tessera sanitaria (добровольная) | ~2 000 EUR/год | [08-insurance.md](08-insurance.md) |
+| Tessera sanitaria — для ИП с взносами в INPS | бесплатно | [22-healthcare.md](22-healthcare.md) |
+| Tessera sanitaria — добровольная регистрация (если не положена) | ~2 000 EUR/год | [22-healthcare.md](22-healthcare.md) |
 
 ## Расходы на жильё (Милан)
 
@@ -64,4 +65,4 @@
 
 ---
 
-[← Полезные ссылки](20-useful-links.md)
+[← Полезные ссылки](20-useful-links.md) | [Медицина →](22-healthcare.md)

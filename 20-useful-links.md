@@ -96,6 +96,8 @@
 |--------|--------|----------|
 | Forfettario калькулятор | [fidocommercialista.it](https://fidocommercialista.it/calcolatore) | Расчёт налогов на упрощёнке |
 | Impatriati калькулятор | [moving2italy.com](https://moving2italy.com/it/calcolo-tassazione-rientro-dei-cervelli/wizard) | Расчёт режима impatriati |
+| DN калькулятор (Наталья Сохарева) | [nomadi-digitali.ru — калькулятор](https://nomadi-digitali.ru/тест-калькулятор/) | Расчёт налогов/взносов для номада с пояснениями (forfettario, INPS) 🟡 [nomadvisaitaly #13440](https://t.me/nomadvisaitaly/13440), июль 2026 |
+| Статистика виз DN (дашборд) | [nomadi-digitali.ru — статистика](https://nomadi-digitali.ru/nomadi_visa_stats/) | Сроки рассмотрения виз DN по странам/консульствам, по открытым данным 🟡 [nomadvisaitaly #13475](https://t.me/nomadvisaitaly/13475), июль 2026 |
 | Forfettario таблица | [Google Sheets](https://docs.google.com/spreadsheets/d/1CA_69OrLyrRNB95XHt-3YAvJmkJgI3li7ITL-qFvW78/) | Сводная таблица |
 | Impatriati — Agenzia delle Entrate | [agenziaentrate.gov.it](https://www.agenziaentrate.gov.it/portale/lavoratori-impatriati-209-2023/infogen-lavoratori-impatriati-209-2023-cittadini) | Официальная информация |
 | ISTAT — средняя зарплата | [dati.istat.it](http://dati.istat.it/viewhtml.aspx?il=blank&vh=0000&vf=0&vcq=1100&graph=0&viewmetadata=1&lang=it&QueryId=12006) | Средний доход (для расчёта min для наёмных) |
@@ -132,6 +134,7 @@
 |--------|--------|----------|
 | Digital nomad Italy | [t.me/nomadvisaitaly](https://t.me/nomadvisaitaly) | Основной чат по DN визе в Италию |
 | @ne_putai | [t.me/ne_putai](https://t.me/ne_putai/3563) | Личный опыт получения DN визы (Москва, 2025–2026) |
+| Digital Nomad Италия (Наталья Сохарева) | [t.me/nomadi_digitali](https://t.me/nomadi_digitali) | Канал консультанта @sokhareva: кейсы, статистика, документы после переезда, ведение Partita IVA |
 | Венгрия — Digital Nomad Hungary | — | Активное сообщество с качественной модерацией | 🟡 [nomadvisaitaly #4047](https://t.me/nomadvisaitaly/4047) | 2024 |
 | Греция — Work from Greece | [https://workfromgreece.gr](https://workfromgreece.gr) | Официальный сайт греческого консульства | 🟡 [nomadvisaitaly #854](https://t.me/nomadvisaitaly/854) | 2025 |
 | @vezupandu — перевозчик | [t.me/PrivezuPandu](https://t.me/PrivezuPandu) | Частный перевозчик Москва–ЕС с животными и вещами (минивэн, ~3500€ Москва–Милан) | 🟡 [nomadvisaitaly #11926](https://t.me/nomadvisaitaly/11926) | май 2026 |

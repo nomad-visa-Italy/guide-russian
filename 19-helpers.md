@@ -34,14 +34,16 @@
 | | |
 |---|---|
 | **Контакт** | [@sokhareva](https://t.me/sokhareva) |
-| **Сайт** | — |
-| **Обновлено** | Июнь 2026 |
+| **Сайт** | [nomadi-digitali.ru](https://nomadi-digitali.ru/) |
+| **Обновлено** | Июль 2026 |
 
 **Что делает**
 
 🟡 Помогает с организацией переезда по DN визе. Сама переехала в Италию по DN визе. | [nomadvisaitaly #9709](https://t.me/nomadvisaitaly/9709) | Февраль 2026
 
 🟡 Работает помощником по коммуникации с русскоязычными в офисе коммерчиалиста (Генуя, видео-созвоны, английский). Ведёт сводную статистику сроков выдачи DN-виз по странам, публикует свежие кейсы в чате. | [nomadvisaitaly #11540](https://t.me/nomadvisaitaly/11540), [nomadvisaitaly #11769](https://t.me/nomadvisaitaly/11769), [nomadvisaitaly #12990](https://t.me/nomadvisaitaly/12990) | Май–июнь 2026
+
+🟡 Делает бесплатные материалы: [калькулятор налогов/взносов для номада](https://nomadi-digitali.ru/тест-калькулятор/) и [дашборд статистики виз DN](https://nomadi-digitali.ru/nomadi_visa_stats/) по странам/консульствам (см. [Полезные ссылки](20-useful-links.md#налоги-и-калькуляторы)). | [nomadvisaitaly #13440](https://t.me/nomadvisaitaly/13440), [nomadvisaitaly #13475](https://t.me/nomadvisaitaly/13475) | Июль 2026
 
 **Подтверждённые кейсы**
 
