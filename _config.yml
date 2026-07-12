@@ -1,6 +1,10 @@
-# GitHub Pages / Jekyll
-# Рендерер — CommonMark (строгий GFM): таблица создаётся ТОЛЬКО при наличии
-# строки-разделителя |---|. Поэтому строки-цитаты «текст | [источник] | дата»
-# рендерятся как обычный текст, а не как таблица.
-# (kramdown, даже в режиме input: GFM, делал таблицу из любой строки с |.)
+# GitHub Pages / Jekyll — рендерер CommonMark (строгий GFM).
+# Строки-цитаты «текст · источник · дата» рендерятся как обычный текст,
+# а не как таблица (в отличие от kramdown, который таблит любую строку с |).
+#
+# ВАЖНО: без блока commonmark.extensions с "table" настоящие таблицы (|---|)
+# НЕ рендерятся — CommonMark по умолчанию выводит их как абзац с сырыми |.
 markdown: CommonMarkGhPages
+commonmark:
+  options: ["FOOTNOTES", "GITHUB_PRE_LANG"]
+  extensions: ["table", "strikethrough", "autolink"]

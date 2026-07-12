@@ -2,13 +2,17 @@
 
 Подробное руководство по получению визы цифрового кочевника (Digital Nomad Visa / Nomade Digitale) в Италии для граждан стран, не входящих в ЕС.
 
+Сайт: [https://nomad-visa-italy.github.io](https://nomad-visa-italy.github.io)
+
+Репозиторий: [https://github.com/nomad-visa-Italy/nomad-visa-italy.github.io](https://github.com/nomad-visa-Italy/nomad-visa-italy.github.io)
+
 ## О гайде
 
 Этот гайд создан на основе:
 - **Официальных источников**: законодательство Италии, сайты консульств, визовых центров и государственных ведомств
 - **Основного DN-сообщества**: дамп Telegram-чата [Digital nomad Italy](https://t.me/nomadvisaitaly) (~11 000 сообщений, 2023–2026, обновлён 11 июля 2026)
-- **Смежных сообществ**: [@nomadi_digitali](https://t.me/nomadi_digitali)**, [emigrantista_answers](https://t.me/emigrantista_answers) (~1 760 сообщений), [immigrazia_IT](https://t.me/immigrazia_IT) (~7 350 сообщений), [rutoitaly](https://t.me/rutoitaly) (~610 сообщений), [rutoitalychat](https://t.me/rutoitalychat) (~106 000 сообщений, из которых отобраны DN-релевантные). Источники обновлены 11 июля 2026
-- **Личного опыта**: канал [@ne_putai](https://t.me/ne_putai/3563) — детальный кейс получения визы через Москву (2025–2026)
+- **Смежных сообществ**: [@nomadi_digitali](https://t.me/nomadi_digitali), [emigrantista_answers](https://t.me/emigrantista_answers), [immigrazia_IT](https://t.me/immigrazia_IT), [rutoitaly](https://t.me/rutoitaly), [rutoitalychat](https://t.me/rutoitalychat). Источники обновлены 11 июля 2026
+- **Личного опыта**: канал [@ne_putai](https://t.me/ne_putai/3563) — детальный кейс получения визы через Москву (2025)
 
 ## Система маркировки
 
