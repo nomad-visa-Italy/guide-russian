@@ -18,7 +18,7 @@
 
 🟢 Виза регулируется Декретом Министерства внутренних дел от 29 февраля 2024 года «Modalità e requisiti per l'ingresso ed il soggiorno dei cittadini di Stati non appartenenti all'Unione europea che svolgono un'attività lavorativa altamente qualificata attraverso l'utilizzo di strumenti tecnologici che consentono di lavorare da remoto». Опубликован в Gazzetta Ufficiale n.79 от 04.04.2024, вступил в силу 05.04.2024. | [Gazzetta Ufficiale](https://www.gazzettaufficiale.it/eli/id/2024/04/04/24A01716/SG) | Апрель 2024
 
-🟢 Правовая основа — статья 27, параграф 1, литера q-bis, и параграф sexies.1 Сводного текста положений об иммиграции (Decreto Legislativo № 286 от 1998 года, «Testo Unico dell'Immigrazione»). Виза выведена за пределы квот decreto flussi. | [integrazionemigranti.gov.it](https://integrazionemigranti.gov.it/it-it/Ricerca-news/Dettaglio-news/id/3736/Nomadi-digitali-e-lavoratori-da-remoto-ecco-le-regole) | Апрель 2024
+🟢 Правовая основа — статья 27, параграф 1, литера q-bis Сводного текста положений об иммиграции (Decreto Legislativo № 286 от 1998 года, «Testo Unico dell'Immigrazione»); литера q-bis введена статьёй 6-quinquies Декрета-закона № 4/2022 («Sostegni-ter», конвертирован Законом № 25/2022). Виза выведена за пределы квот decreto flussi. | [integrazionemigranti.gov.it](https://integrazionemigranti.gov.it/it-it/Ricerca-news/Dettaglio-news/id/3736/Nomadi-digitali-e-lavoratori-da-remoto-ecco-le-regole) | Апрель 2024
 
 🟡 Программа заработала в **апреле 2024** — вышел декрет, информация опубликована в Gazzetta Ufficiale. Первые кейсы успешного получения визы появились летом–осенью 2024 года. Можно быть и сотрудником, и контрактором, и самозанятым. | [nomadvisaitaly #67](https://t.me/nomadvisaitaly/67) (Полина) | Апрель 2024
 
@@ -143,7 +143,7 @@
 
 🟡 Автор канала @ne_putai получил визу за 52 дня. При этом отмечает, что мог бы получить быстрее, если бы не переносил билеты. | [ne_putai #3580](https://t.me/ne_putai/3580) | Октябрь 2025
 
-🔴 **С 2025 года** консульства могут отказать **без предварительного отказа** (предотказа / preavviso di diniego, ст. 10-бис исключена). Необходимо тщательно собирать пакет документов с первого раза. | [rutoitaly #355](https://t.me/rutoitaly/355), [immigrazia_IT #3980](https://t.me/immigrazia_IT/3980) | Декабрь 2024
+🟡 **С 2025 года** консульства могут отказать **без предварительного отказа** (предотказа / preavviso di diniego, ст. 10-бис исключена). Необходимо тщательно собирать пакет документов с первого раза. | [rutoitaly #355](https://t.me/rutoitaly/355), [immigrazia_IT #3980](https://t.me/immigrazia_IT/3980) | Декабрь 2024
 
 ### Стоимость (ориентировочно, подача через Москву)
 

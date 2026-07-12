@@ -1,4 +1,4 @@
-# 14. Полезные ссылки и контакты
+# 20. Полезные ссылки и контакты
 
 [← Помогаторы](19-helpers.md) | [Сводка расходов →](21-costs.md)
 
@@ -31,15 +31,15 @@
 
 | Страна | Ссылка | Контакты | Примечания |
 |--------|--------|----------|----------|
-| **Москва** | [consmosca.esteri.it](https://consmosca.esteri.it/ru/) | sociale.mosca@esteri.it | 🟢 Дружелюбное отношение, быстрые сроки (2-8 недель) |
+| **Москва** | [consmosca.esteri.it](https://consmosca.esteri.it/ru/) | sociale.mosca@esteri.it | 🟢 Дружелюбное отношение. 🟡 Сроки в 2024–25 были быстрыми (2–8 недель), но к 2026 сильно выросли — см. [Консульства](10-consulates.md) |
 | **Санкт-Петербург** | [conspietroburgo.esteri.it](https://conspietroburgo.esteri.it/) | *(не принимает DN)* | Только 1 региональное консульство |
 | **Ереван** | [ambjerevan.esteri.it](https://ambjerevan.esteri.it/) | visti.jerevan@esteri.it, тел. 012542335/36 доб. 109 | 🟡 Принимает документы по Nulla Osta, быстрые сроки на визу al seguito |
-| **Тбилиси** | [ambtiblisi.esteri.it](https://ambtiblisi.esteri.it/) | — | 🟡 Консульство по-англ., может отказать в рассмотрении второй компании-работодателя |
-| **Белград** | [ambbelgrado.esteri.it](https://ambbelgrado.esteri.it/) | visti.belgrado@esteri.it | 🟢 Исключительно дружелюбное отношение, личные встречи без записи. 🔴 Требует зарегистрированный в налоговой контракт аренды минимум на год, ospitalita не принимается |
+| **Тбилиси** | [ambtbilisi.esteri.it](https://ambtbilisi.esteri.it/) | — | 🟡 Консульство по-англ., может отказать в рассмотрении второй компании-работодателя |
+| **Белград** | [ambbelgrado.esteri.it](https://ambbelgrado.esteri.it/) | visti.belgrado@esteri.it | 🟢 Исключительно дружелюбное отношение, личные встречи без записи. 🟡 Требует зарегистрированный в налоговой контракт аренды минимум на год, ospitalita не принимается |
 | **Стамбул** | [consistanbul.esteri.it](https://consistanbul.esteri.it/) | — | 🟢 Приемлет документы на английском и турецком |
 | **Тель-Авив** | [ambtelaviv.esteri.it](https://ambtelaviv.esteri.it/) | visti.telaviv@esteri.it, тел. +972-3-5301901 | 🟡 Требует билеты при подаче |
 | **Пристина** | [ambpristina.esteri.it](https://ambpristina.esteri.it/) | — | 🟢 Самое подробное описание DN на англ. |
-| **Генуя (Квестура)** | — | — | 🔴 Проблемы: случаи, когда сроки на отпечатки занимают до года, документы могут быть потеряны |
+| **Генуя (Квестура)** | — | — | 🟡 Проблемы: случаи, когда сроки на отпечатки занимают до года, документы могут быть потеряны |
 
 ### Визовые центры
 
@@ -65,7 +65,7 @@
 | Запись на DDV и заверения | [prenotami.esteri.it](https://prenotami.esteri.it/) | 🟡 Запись может быть перенесена по письму в консульство — доставить новые билеты если сроки выдачи визы изменились |
 | DDV — информация | [consmosca.esteri.it — DDV](https://consmosca.esteri.it/ru/servizi-consolari-e-visti/servizi-per-il-cittadino-italiano/altri-servizi/dichiarazioni-di-valore/) | 🟢 Стоимость ~258 EUR за 2 диплома, сроки 5 рабочих дней |
 | Перевод и легализация | [consmosca.esteri.it — переводы](https://consmosca.esteri.it/ru/servizi-consolari-e-visti/servizi-per-il-cittadino-straniero/traduzione-e-legalizzazione-dei-documenti/) | 🟡 Требуются консульские переводы, стоимость ~56.5k руб. + заверение ~300 EUR |
-| Аккредитованные переводчики | [consmosca.esteri.it — список](https://consmosca.esteri.it/ru/servizi-consolari-e-visti/servizi-per-il-cittadino-italiano/traduzione-e-legalizzazione-dei-documenti/elenco-dei-traduttori-accreditati/) | 🟡 Рекомендуется написать всем в WhatsApp, цены различаются в 10 раз |
+| Аккредитованные переводчики | [consmosca.esteri.it — список](https://consmosca.esteri.it/ru/servizi-consolari-e-visti/servizi-per-il-cittadino-italiano/traduzione-e-legalizzazione-dei-documenti/elenco-dei-traduttori-accreditati/) | 🟡 Рекомендуется написать всем в WhatsApp; условия у большинства сопоставимы (различия в пределах ~20%) |
 | Контакт на отмену записи на DDV | sociale.mosca@esteri.it | 🟢 Используется для отмены записи на легализацию диплома |
 | Формуляры (анкеты) | [italy-vms.ru/formulyary](https://italy-vms.ru/formulyary/) | — |
 | Приглашение / бронь | [italy-vms.ru — жильё](https://italy-vms.ru/priglashenie-ili-bron-otelya/) | — |
